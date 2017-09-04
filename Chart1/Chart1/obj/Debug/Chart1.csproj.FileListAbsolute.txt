@@ -1,0 +1,10 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Chart1\Chart1\bin\Debug\Chart1.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Chart1\Chart1\bin\Debug\Chart1.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Chart1\Chart1\bin\Debug\Chart1.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Chart1\Chart1\obj\Debug\Chart1.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Chart1\Chart1\obj\Debug\Chart1.Form1.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Chart1\Chart1\obj\Debug\Chart1.Properties.Resources.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Chart1\Chart1\obj\Debug\Chart1.csproj.GenerateResource.Cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Chart1\Chart1\obj\Debug\Chart1.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Chart1\Chart1\obj\Debug\Chart1.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\LeetCode\Chart1\Chart1\obj\Debug\Chart1.pdb
